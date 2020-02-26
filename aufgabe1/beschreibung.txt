@@ -1,0 +1,8 @@
+1. Baue das Raster aus dem Bild (grid-template-areas) 1 zu 1 nach. Benutze nur HTML/CSS.
+https://www.w3schools.com/html/
+https://www.w3schools.com/css/
+
+Video is top:
+https://www.youtube.com/watch?v=zSYT2T5VR8A
+
+
